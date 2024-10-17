@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int main(){
     int num, lastDigit, lastAltDigit, sum1=0, sum2=0;
     scanf("%d", &num);
